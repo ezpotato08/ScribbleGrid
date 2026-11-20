@@ -1,5 +1,4 @@
 # ScribbleGrid
-# ScribbleGrid
 
 **An Accessible XY Drawing Plotter**
 
